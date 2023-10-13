@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import _default from '../../themes/default';
 
 export const Nav = styled.div`
-    background-color: ${({theme}) => theme.card_light};
+    background-color: #0d0800};
     height: 80px;
     display: flex;
     align-items: center;
@@ -28,7 +28,7 @@ export const NavbarContainer = styled.div`
 `;
 
 export const NavLogo = styled(LinkR)`
-    width: 80%;    
+    width: 80%;
     padding: 0 6px;
     display: flex;
     justify-content: start;
@@ -89,15 +89,15 @@ export const GitHubButton = styled.a`
   transition: all 0.6s ease-in-out;
     :hover {
       background: ${({ theme }) => theme.primary};
-      color: ${({ theme }) => theme.white};     
+      color: ${({ theme }) => theme.white};
     }
-    @media screen and (max-width: 768px) { 
+    @media screen and (max-width: 768px) {
     font-size: 14px;
     }
 `;
 
 export const ButtonContainer = styled.div`
-  width: 80%;  
+  width: 80%;
   height: 100%;
   display: flex;
   justify-content: end;
