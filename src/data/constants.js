@@ -340,22 +340,12 @@ export const experiences = [
 
 export const education = [
   {
-    id: -1,
-    img: "https://upload.wikimedia.org/wikipedia/commons/4/47/Ietlogo.png",
-    school: "Institute of Engineering & Technology, Lucknow",
-    date: "Aug 2021 - Sep 2025",
-    grade: "7.89 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at IET Lucknow. I have completed 4 semesters and have a CGPA of 7.89. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at IET, where I am learning and working on exciting projects with a team of talented developers.",
-    degree:
-      "Bachelor of Technology - BTech, Computer Science and Engineering | Specialization : Artificial Intelligence",
-  },
-  {
     id: 0,
     img: "https://upload.wikimedia.org/wikipedia/commons/4/47/Ietlogo.png",
     school: "Institute of Engineering & Technology, Lucknow",
     date: "Aug 2021 - Sep 2025",
     grade: "8.50 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at IET Lucknow. I have completed 6 semesters and have a CGPA of 7.89. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at IET, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at IET Lucknow. I have completed 6 semesters and have a CGPA of 8.50. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at IET, where I am learning and working on exciting projects with a team of talented developers.",
     degree:
       "Bachelor of Technology - BTech, Computer Science and Engineering | Specialization : Artificial Intelligence",
   },
@@ -505,7 +495,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Adii-5442/Driver-Drowsiness-Detection.git",
   },
-
 ];
 
 export const TimeLineData = [
